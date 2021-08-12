@@ -13,4 +13,8 @@ const Button = (props) => {
   );
 };
 
+const hello = () => {
+  console.log(hi);
+};
+
 export default Button;
